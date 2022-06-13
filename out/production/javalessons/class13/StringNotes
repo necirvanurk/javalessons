@@ -1,0 +1,11 @@
+String class:
+is used to  store and manipulate character based data
+ like numbers, Alphabets and special characters.
+lenght();
+String str+new String("hold your horse for intellij");
+String => DataTaype/Class
+str=> variable name /object/ instance
+=  => assignment operator
+new => is used to create object
+Stirng(); it's also like a method it contains some java statements which are executed
+when object of this class is created ots called constructor.
