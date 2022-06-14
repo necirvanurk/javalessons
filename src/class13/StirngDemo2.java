@@ -7,7 +7,7 @@ public class StirngDemo2 {
         System.out.println(str.replaceAll("[a-z]","*"));
         System.out.println(str.replaceAll("[A-Za-z0-9]","#"));//###################################################
         System.out.println(str.replaceAll("[^a-z]","_"));//"^a-z"mean replace everything except this //jnfjdsf_____knn_____________
-        System.out.println(str.replaceAll("[^A-z]",""));//Remove the special characters
+        System.out.println(str.replaceAll("[^A-z]",""));//Remove the special chrearacters
 
 
 

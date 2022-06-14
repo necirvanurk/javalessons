@@ -5,7 +5,7 @@ public class Recap2 {
         String str="where is sammer?";
         System.out.println(str.charAt(2));
         System.out.println(str.charAt(7));
-        System.out.println(str.indexOf("i"));
+        System.out.println(str.length());
 
         System.out.println(str.indexOf("e"));//execute first e character
         System.out.println(str.indexOf("e",6));// it will start execute after character 6
